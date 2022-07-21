@@ -13,3 +13,5 @@ Añade en este documento como un encabezado de nivel 3 (Markdown), tu nombre y a
 ### Leivys Morffi Naranjo
 
 ### Jose Luis Roldan Ceballos
+
+### Sergio Jovani Pérez
