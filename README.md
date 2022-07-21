@@ -5,3 +5,5 @@ Añade en este documento como un encabezado de nivel 3 (Markdown), tu nombre y a
 ### Alvaro Rosales Muñoz
 
 ### Francisco Ramírez Gómez
+
+### Sandra Maria De la torre Martinez
